@@ -11,7 +11,6 @@
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
 </p>
 
 ## Technologies
@@ -29,7 +28,7 @@ Este projeto foi desenvolvido com a finalidade de capacitação pessoal, utiliza
 -  [Insomnia](https://insomnia.rest/download/)
 -  [DBeaver](https://dbeaver.io/)
 
-## :how-to-use: How To Use
+## How To Use
 
 Para clonar e compilar este projeto, você precisará [Git](https://git-scm.com), 
 [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) ou superior instalado em seu 
@@ -37,7 +36,7 @@ computador:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/rocketshoes-react-native rocketshoesRN
+$ git clone https://github.com/osterloh/agenda-contatos.git
 ```
 
 ---
