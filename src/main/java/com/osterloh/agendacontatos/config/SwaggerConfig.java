@@ -33,8 +33,8 @@ public class SwaggerConfig {
                 "API REST de cadastro de contatos",
                 "1.0",
                 "Terms of Service",
-                new Contact("Johnatan Osterloh", "https://www.orbittrip.com.br",
-                        "johnatanosterloh@gmail.com"),
+                new Contact("Johnatan", "https://www.test.com.br",
+                        "johnatan@test.com"),
                 "Apache License Version 2.0",
                 "https://www.apache.org/license.html", new ArrayList<VendorExtension>()
         );
